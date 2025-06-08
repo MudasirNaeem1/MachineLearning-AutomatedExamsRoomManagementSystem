@@ -19,6 +19,8 @@
 
 The **Automated Exam Management System** is a sophisticated desktop application that leverages machine learning algorithms to create optimal seating arrangements for examinations. Using the **K-Means Clustering** algorithm, it intelligently distributes students across multiple rooms while maintaining balance and diversity.
 
+![Code-Screenshot](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Code%20Screenshot.JPG)
+
 ### ✨ Key Highlights
 
 - 💬 **AI-Powered**: Uses K-Means clustering for intelligent room allocation
@@ -117,6 +119,8 @@ Automated-Exam-Rooms-Management-System.ipynb (in Jupyter Notebook or Google Cola
    - Set room capacity (optional)
    - Choose domain mixing preference
 
+![Home-GUI](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Home%20Page.JPG)
+
 3. **Generate Seating Plan**
    - Click "Generate Seating Plan"
    - Wait for AI processing to complete
@@ -132,17 +136,25 @@ Row 2: S089(EE)  S112(CS)  S134(AI)  S156(BA)  S178(ME)
 ...
 ```
 
+Attached Screenshot Showing the complete Generated Seating Plan using K-Means Ckustering
+
+![Seating-Plan](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Seating%20Plane.JPG)
+
 #### Analytics Dashboard
 - **Clustering Quality**: Inertia scores and convergence metrics
 - **Distribution Balance**: Statistical measures of room allocation
 - **Domain Diversity**: Cross-room subject distribution analysis
 - **Performance Recommendations**: Optimization suggestions
 
+![Analytics-Dashboard](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Cluster%20Analytics%20%26%20Performance%20Matrics.JPG)
+
 #### Faculty Allocation
 - Room-wise supervisor assignments
 - Capacity utilization statistics
 - Break schedule recommendations
 - Quality assurance checklist
+
+![Faculty-Allocation](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Faculty%20Allocation.JPG)
 
 ---
 
@@ -173,6 +185,34 @@ The system uses **K-Means Clustering** to optimize student distribution:
 ---
 
 ## 🎨 Screenshots Attached
+
+1. Final seating arrangement filled in system records, showing student-wise domain and room allocation data.
+
+![Filled-Code](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Filled%20Recored.JPG)
+
+2. This screenshot shows the application interface in Light Mode.
+   It demonstrates user-friendly design and readability across themes.
+   Theme switching is accessible via the settings for flexible UI preferences.
+
+![Home Light Mode](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Home_Light_Mode.JPG)
+
+3. The Summary screen displays the final output after successful clustering.
+   It summarizes total students, domains, room distribution, and generation time.
+   Helpful for reviewing the process results at a glance.
+
+![Summary](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Summary.JPG)
+
+4. This window allows users to switch between Light, Dark, or System themes.
+   Improves usability by offering personalized UI appearance preferences.
+   Designed for clean layout and fast theme switching without restarting.
+
+![Settings](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Settings.JPG)
+
+5. The Help screen offers guidance on how to use the app.
+   Explains input fields, feature functions, and generation steps. 
+   Useful for first-time users to understand how clustering is applied.
+
+![Help](https://github.com/MudasirNaeem1/MachineLearning-Exam-Management-System/blob/main/Output%20Screenshots/Help.JPG)
 
 
 ### Analytics Dashboard
